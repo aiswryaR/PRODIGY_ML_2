@@ -1,1 +1,3 @@
-# PRODIGY_ML_2
+# K-Means_Clustering
+
+Dataset :- https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
